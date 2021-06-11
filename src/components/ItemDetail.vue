@@ -648,7 +648,7 @@ h2 {
   text-align: center;
   align-items: center;
   display: flex;
-  color: #cfcfcf;
+  color: #2e3131;;
 }
 
 ul {
